@@ -19,10 +19,10 @@ The project is broken into smaller parts:
 - **Input handling**  
   - Read a string of numbers from the user.  
   - Parse into a Python list of integers.  
-  - Handle invalid input (non-numeric values, empty input).
+  - Handle invalid input.
 
 - **Bubble Sort algorithm**  
-  - Perform comparisons between adjacent elements.  
+  - Perform comparisons between elements.  
   - Swap elements if they are out of order.  
   - Repeat passes until the list is sorted or no swaps occur in a pass.
 
